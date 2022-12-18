@@ -13,4 +13,6 @@ usethis::git_sitrep()
 
 #iniciar git
 usethis::use_git()
-1
+
+usethis:git_sitrep()
+
